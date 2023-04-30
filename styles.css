@@ -19,17 +19,28 @@ body{
 .h4{
 	text-align:center;
 }
-.news{
-	width:500px;
+.latest-news-section{
+	background-color:white;
+	width:150px;
+	padding: 5px;
+	text-align : center;
+	border-radius:10px;
 }
 .Main-article{
-	width:500px;
+	background-color:white;
+	width:150px;
+	padding: 5px;
+	text-align : center;
+	border-radius:10px;
 }
 .Main-article .lorem{
 	width:150px;
 }
-.Pictorial-news{
-	display:flex;
-	flex-direction:column;
+.pictorial-news-section{
+	background-color:white;
+	width:150px;
+	padding: 5px;
+	text-align : center;
+	border-radius:10px;
 }
 
