@@ -1,1 +1,32 @@
 /*  your css code here. If applicable */
+.heading{
+	background-color: #011e29;
+	color:white;
+	text-align:center;
+	margin:2px;
+}
+.img{
+	width:150px;
+	height:100px;
+}
+.container{
+	display:flex;
+	justify-content:space-between;
+}
+.h4{
+	text-align:center;
+}
+.news{
+	width:500px;
+}
+.Main-article{
+	width:500px;
+}
+.Main-article .lorem{
+	width:150px;
+}
+.Pictorial-news{
+	display:flex;
+	flex-direction:column;
+}
+
